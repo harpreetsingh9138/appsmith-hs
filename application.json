@@ -14,13 +14,13 @@
     "navigationSetting": {
       "showNavbar": true,
       "showSignIn": true,
-      "_id": "67111902acd7734f9b1036db"
+      "_id": "67111fcba4523c6007830abf"
     },
     "themeSetting": {
       "sizing": 1,
       "density": 1,
       "appMaxWidth": "LARGE",
-      "_id": "67111902acd7734f9b1036dc"
+      "_id": "67111fcba4523c6007830ac0"
     }
   },
   "color": "#C7F3F0",
@@ -33,14 +33,14 @@
     "navigationSetting": {
       "showNavbar": true,
       "showSignIn": true,
-      "_id": "67111902acd7734f9b1036de"
+      "_id": "67111fcba4523c6007830ac2"
     },
     "themeSetting": {
       "sizing": 1,
       "density": 1,
       "appMaxWidth": "LARGE",
-      "_id": "67111902acd7734f9b1036df"
+      "_id": "67111fcba4523c6007830ac3"
     },
-    "_id": "67111902acd7734f9b1036e0"
+    "_id": "67111fcba4523c6007830ac4"
   }
 }
