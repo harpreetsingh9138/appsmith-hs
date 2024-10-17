@@ -1,0 +1,46 @@
+{
+  "isAutoUpdate": false,
+  "name": "Untitled application 1",
+  "pages": [
+    {
+      "id": "Page1",
+      "isDefault": true
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "unpublishedApplicationDetail": {
+    "navigationSetting": {
+      "showNavbar": true,
+      "showSignIn": true,
+      "_id": "671118d19d576c9b067b4b9e"
+    },
+    "themeSetting": {
+      "sizing": 1,
+      "density": 1,
+      "appMaxWidth": "LARGE",
+      "_id": "671118d19d576c9b067b4b9f"
+    }
+  },
+  "color": "#C7F3F0",
+  "icon": "stars",
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "lastEditedAt": "2024-10-17T13:49:38.703Z",
+  "collapseInvisibleWidgets": true,
+  "applicationDetail": {
+    "navigationSetting": {
+      "showNavbar": true,
+      "showSignIn": true,
+      "_id": "671118d19d576c9b067b4ba1"
+    },
+    "themeSetting": {
+      "sizing": 1,
+      "density": 1,
+      "appMaxWidth": "LARGE",
+      "_id": "671118d19d576c9b067b4ba2"
+    },
+    "_id": "671118d19d576c9b067b4ba3"
+  }
+}
